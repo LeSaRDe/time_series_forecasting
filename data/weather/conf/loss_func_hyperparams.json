@@ -1,0 +1,6 @@
+{
+  "mse":
+  {
+    "reduction": "mean"
+  }
+}

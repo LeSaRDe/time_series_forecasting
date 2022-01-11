@@ -1,0 +1,10 @@
+{
+  "epoch": 100,
+  "train_device": "cuda",
+  "model_name": "custom_lstm",
+  "loss_func_name": "mse",
+  "optimizer_name": "adagrad",
+  "train_set_name": "train",
+  "num_top_checkpoint": 10,
+  "epoch_ratio_for_save": 0.5
+}

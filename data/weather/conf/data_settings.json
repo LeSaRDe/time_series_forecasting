@@ -1,0 +1,12 @@
+{
+  "raw_data_file_name": "jena_climate_2009_2016.csv",
+  "train_ratio": 0.7,
+  "val_ratio": 0.2,
+  "input_seq_size": 14,
+  "input_seq_stride": 3,
+  "label_size": 3,
+  "batch_size": 5,
+  "batch_stride": 2,
+  "l_feature_cols": null,
+  "l_label_cols": ["T"]
+}

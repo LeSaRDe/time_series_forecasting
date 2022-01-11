@@ -1,0 +1,15 @@
+{
+  "global":
+  {
+    "num_in_feature": 19,
+    "num_out_feature": 1,
+    "out_seq_size": 3
+  },
+
+  "custom_lstm":
+  {
+    "lstm_hidden_size": 2,
+    "lstm_num_layers": 1,
+    "lstm_dropout": 0
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "nse":
+  {
+    "reduction": "mean",
+    "time_point_metric": "l2_sqr",
+    "normalized": false
+  },
+
+  "nnse":
+  {
+    "reduction": "mean",
+    "time_point_metric": "l2_sqr",
+    "normalized": true
+  }
+}
