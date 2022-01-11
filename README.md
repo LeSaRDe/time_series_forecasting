@@ -1,1 +1,1 @@
-time_series_forecasting
+Framework for time series forecasting experiments
